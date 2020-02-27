@@ -1,0 +1,11 @@
+###############################################################
+#                          WARNING!!!!                        #
+# This is a sandbox environment. Using personal credentials   #
+# is HIGHLY! discouraged. Any consequences of doing so are    #
+# completely the user's responsibilites.                      #
+#                                                             #
+# The PWD team.                                               #
+###############################################################
+[node2] (local) root@192.168.0.23 ~
+$ docker swarm join --token SWMTKN-1-2i77rbjajgylhb9k7jow5xgyoha9fxy3zdkqb0b6ou39qko2b4-2ae1rvrga40juhvp0q064e8tf 192.168.0.22:2377
+This node joined a swarm as a worker.
